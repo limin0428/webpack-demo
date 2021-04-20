@@ -1,0 +1,9 @@
+@import './reset.css';
+body {
+  color: red
+}
+#cover {
+  background: url('./images/test.jpg');
+  height: 200px;
+  width: 350px;
+}
